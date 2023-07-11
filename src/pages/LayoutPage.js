@@ -1,13 +1,13 @@
 import { Typography } from "@mui/material";
 
-function TestPage() {
+function LayoutPage() {
     return (
         <>
             <Typography>
-                Hello, this is test1
+                Hello World
             </Typography>
         </>
     );
 }
 
-export default TestPage;
+export default LayoutPage;
